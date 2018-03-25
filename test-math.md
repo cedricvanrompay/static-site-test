@@ -1,16 +1,12 @@
----
-mathjax: true
----
-
 # Testing Math Display
 
 
-(has mathjax: true)
+(no mathjax: true)
 
-\( \sqrt{x} \)
+Let's use $ \latex $;
 
-\[ \sqrt{x} \]
-
-$ \sqrt{x} $
+Or is it $$ \latex $$?
 
 $$ \sqrt{x} $$
+
+$$ a^2 + b^2 = c^2 $$
