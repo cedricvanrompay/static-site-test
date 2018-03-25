@@ -2,9 +2,10 @@
 mathjax: true
 ---
 
-(has mathjax: true)
-
 # Testing Math Display
+
+
+(has mathjax: true)
 
 \( \sqrt{x} \)
 
