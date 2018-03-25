@@ -1,3 +1,7 @@
+---
+mathjax: true
+---
+
 # Testing Math Display
 
 \( \sqrt{x} \)
