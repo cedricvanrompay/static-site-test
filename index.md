@@ -1,1 +1,1 @@
-Link to another page: [math-test.md][math-test.md]
+Link to another page: [test-math.md][test-math.md]
