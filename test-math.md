@@ -10,3 +10,8 @@ Or is it $$ \LaTeX $$?
 $$ \sqrt{x} $$
 
 $$ a^2 + b^2 = c^2 $$
+
+# Tables
+
+| A | B | C |
+| a | b | c |
