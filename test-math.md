@@ -3,9 +3,9 @@
 
 (no mathjax: true)
 
-Let's use $ \latex $;
+Let's use $ \LaTeX $;
 
-Or is it $$ \latex $$?
+Or is it $$ \LaTeX $$?
 
 $$ \sqrt{x} $$
 
